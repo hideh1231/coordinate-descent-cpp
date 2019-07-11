@@ -9,7 +9,6 @@ OS: macOS Mojave version10.14.5
 ├── src  
 │   └── cd.cpp  
 └── test  
-    ├── a.out  
     └── test_cd.cpp  
     
 ## 依存ライブラリのインストール方法
